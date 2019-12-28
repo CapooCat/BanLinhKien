@@ -1,0 +1,49 @@
+C:\Users\trant\Documents\BanHang\BanLinhKien\bin\Debug\BanLinhKien.exe.config
+C:\Users\trant\Documents\BanHang\BanLinhKien\bin\Debug\BanLinhKien.exe
+C:\Users\trant\Documents\BanHang\BanLinhKien\bin\Debug\BanLinhKien.pdb
+C:\Users\trant\Documents\BanHang\BanLinhKien\obj\Debug\BanLinhKien.BanLinhKien.resources
+C:\Users\trant\Documents\BanHang\BanLinhKien\obj\Debug\BanLinhKien.Login.resources
+C:\Users\trant\Documents\BanHang\BanLinhKien\obj\Debug\BanLinhKien.PhanHoi.resources
+C:\Users\trant\Documents\BanHang\BanLinhKien\obj\Debug\BanLinhKien.ThanhToan.resources
+C:\Users\trant\Documents\BanHang\BanLinhKien\obj\Debug\BanLinhKien.Form5.resources
+C:\Users\trant\Documents\BanHang\BanLinhKien\obj\Debug\BanLinhKien.Themhang.resources
+C:\Users\trant\Documents\BanHang\BanLinhKien\obj\Debug\BanLinhKien.Form7.resources
+C:\Users\trant\Documents\BanHang\BanLinhKien\obj\Debug\BanLinhKien.Properties.Resources.resources
+C:\Users\trant\Documents\BanHang\BanLinhKien\obj\Debug\BanLinhKien.csproj.GenerateResource.Cache
+C:\Users\trant\Documents\BanHang\BanLinhKien\obj\Debug\BanLinhKien.exe
+C:\Users\trant\Documents\BanHang\BanLinhKien\obj\Debug\BanLinhKien.pdb
+C:\Users\trant\Documents\BanHang\BanLinhKien\obj\Debug\BanLinhKien.csprojResolveAssemblyReference.cache
+F:\BanLinhKien\bin\Debug\BanLinhKien.exe.config
+F:\BanLinhKien\bin\Debug\BanLinhKien.exe
+F:\BanLinhKien\bin\Debug\BanLinhKien.pdb
+F:\BanLinhKien\obj\Debug\BanLinhKien.BanLinhKien.resources
+F:\BanLinhKien\obj\Debug\BanLinhKien.Login.resources
+F:\BanLinhKien\obj\Debug\BanLinhKien.PhanHoi.resources
+F:\BanLinhKien\obj\Debug\BanLinhKien.ThanhToan.resources
+F:\BanLinhKien\obj\Debug\BanLinhKien.Form5.resources
+F:\BanLinhKien\obj\Debug\BanLinhKien.Themhang.resources
+F:\BanLinhKien\obj\Debug\BanLinhKien.Form7.resources
+F:\BanLinhKien\obj\Debug\BanLinhKien.Properties.Resources.resources
+F:\BanLinhKien\obj\Debug\BanLinhKien.csproj.GenerateResource.Cache
+F:\BanLinhKien\obj\Debug\BanLinhKien.exe
+F:\BanLinhKien\obj\Debug\BanLinhKien.pdb
+D:\BanLinhKien\BanLinhKien\bin\Debug\BanLinhKien.exe.config
+D:\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.exe
+D:\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.pdb
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\bin\Debug\BanLinhKien.exe.config
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\bin\Debug\BanLinhKien.exe
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\bin\Debug\BanLinhKien.pdb
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.BanLinhKien.resources
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.Login.resources
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.PhanHoi.resources
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.ThanhToan.resources
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.Form5.resources
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.Themhang.resources
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.Form7.resources
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.Properties.Resources.resources
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.csproj.GenerateResource.Cache
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.exe
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.pdb
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.csprojResolveAssemblyReference.cache
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.Form8.resources
+C:\Users\trant\OneDrive\Documents\Visual Studio 2015\Templates\ProjectTemplates\Visual C#\BanLinhKien\BanLinhKien\obj\Debug\BanLinhKien.Form9.resources
